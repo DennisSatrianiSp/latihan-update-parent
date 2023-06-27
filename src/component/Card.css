@@ -1,0 +1,40 @@
+.card {
+    border: 1px solid black;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.judul {
+    margin-top: 10px;
+}
+.gambar{
+    width: 250px;
+    border-radius: 20px;
+}
+.harga {
+    margin-top: -10px;
+    color: grey;
+}
+.desk {
+    margin-top: -10px;
+}
+.tambah {
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+.kurang {
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
